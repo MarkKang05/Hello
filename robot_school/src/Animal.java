@@ -6,6 +6,8 @@ public class Animal {
 	Animal(String kind, String name, int age, String toy){
 		this(kind, name, age);
 		System.out.println(name + toy + "를 좋아합니다.");
+		System.out.println(name + toy + "를 좋아합니다.");
+		System.out.println(name + toy + "를 좋아합니다.");
 	}
 
 	Animal(String kind, String name, int age){
