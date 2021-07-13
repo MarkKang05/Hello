@@ -30,6 +30,8 @@ public class AllCarMain {
 		kakaoTaxi.speedUp();
 		kakaoTaxi.speedUp();
 		kakaoTaxi.payUp();
+		
+
 	}
 
 }
